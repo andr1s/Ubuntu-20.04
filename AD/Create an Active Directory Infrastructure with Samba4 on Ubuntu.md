@@ -189,16 +189,3 @@ That’s all! Now you have a fully operational AD Domain Controller installed in
 On the next series we’ll cover other Samba AD topics, such as how to manage you’re the domain controller from Samba command line, how to integrate Windows 10 into the domain name and manage Samba AD remotely using RSAT and other important topics.
 
 <a name="tongket"></a>
-## III. Summary:
-
-**Watch Video here:** 
-
-- [How to Install and configure Samba on Ubuntu 20.04 Part 1:  Public folder](https://youtu.be/2o5zgA8ml38)
-- [How to configure and Install Samba on Ubuntu 20.04 Part2: Private Share](https://youtu.be/6s9ZEp3xS94)
-
-Contact me:
-- Email: manhhungbl@gmail.com
-- Skype: spyerx3
-- Youtube Channel: youtube.com/howtoused
-
-Thank you very much!
